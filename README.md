@@ -1,8 +1,8 @@
 # OS-_Jackfruit
 Linux Multi-Container Runtime
 ## 1. Team Information
-- **Name 1** - [Insert SRN]
-- **Name 2** - [Insert SRN]
+- **Gurijala Dheeraj Reddy** - PES2UG24AM059
+- **Avula Balaji** - PES2UG24AM035
 
 ---
 
